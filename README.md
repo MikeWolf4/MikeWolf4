@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeWolf4
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unreal C++
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on anything Unreal Engine
 - 📫 How to reach me wolfordmichael04@gmail.com
 
